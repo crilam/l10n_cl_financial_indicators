@@ -33,9 +33,9 @@ using SBIF webservices''',
     ],
     'data': [
         'views/update_button.xml',
-        'data/ir_cron.xml',
-        'data/res.currency.csv',
-        'data/webservices.server.csv',
+       #'data/ir_cron.xml',
+       # 'data/res.currency.csv',
+       # 'data/webservices.server.csv',
     ],
     'installable': True,
 }
